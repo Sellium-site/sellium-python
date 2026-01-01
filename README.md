@@ -25,7 +25,7 @@ This SDK provides a single `SelliumClient` with service groups for:
 
 ## Install
 
-### From PyPI (recommended once published)
+### From PyPI (recommended)
 ```bash
 pip install sellium
 ```
